@@ -1,15 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
-using System.Linq;
 using Abp.AspNetCore;
-using Abp.AutoMapper;
 using Abp.Castle.Logging.Log4Net;
 using Abp.IdentityServer4;
-using AutoMapper;
 using Castle.Facilities.Logging;
-using IdentityServer4.Services;
-using IdentityServerService.Client;
 using IdentityServerService.Resource;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
